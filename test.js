@@ -1,0 +1,1 @@
+https://www.clarity.ms/s/0.8.21/clarity.js
